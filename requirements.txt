@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+cryptography
+pyotp
+argon2-cffi
+pydantic[email]
+sqlalchemy
