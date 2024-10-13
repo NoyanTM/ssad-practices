@@ -1,0 +1,1 @@
+Using a static code analysis tool (such as SonarQube, Fortify, etc.), analyze the project's source code and find potential vulnerabilities. Suggest changes to address the issues found.

@@ -1,1 +1,0 @@
-bandit -r ./fma-crypto-map/ -f json -o bandit_output_file
