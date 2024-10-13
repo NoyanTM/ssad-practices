@@ -25,10 +25,13 @@ Explained in `assignment_4/task.md`
 Explained in `assignment_5/task.md`
 
 ## Assignment 6:
+Explained in `assignment_6/task.md`
 
 ## Assignment 7:
+Explained in `assignment_7/task.md`
 
 ## Assignment 8:
+Explained in `assignment_8/task.md`
 
 ## Final project:
-
+Link - `https://github.com/NoyanTM/fastsandbox-api`
