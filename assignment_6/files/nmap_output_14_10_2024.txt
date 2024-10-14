@@ -1,0 +1,27 @@
+# Nmap 7.94SVN scan initiated Mon Oct 14 14:48:03 2024 as: nmap -p- -T4 -sV -O -v -oN 14_10_2024.txt 91.201.214.209
+Nmap scan report for 91.201.214.209
+Host is up (0.030s latency).
+Not shown: 65527 closed tcp ports (reset)
+PORT     STATE    SERVICE    VERSION
+22/tcp   open     ssh        OpenSSH 8.9p1 Ubuntu 3ubuntu0.10 (Ubuntu Linux; protocol 2.0)
+80/tcp   open     http       nginx 1.18.0 (Ubuntu)
+443/tcp  open     ssl/http   nginx 1.18.0 (Ubuntu)
+2000/tcp open     tcpwrapped
+2368/tcp filtered opentable
+3000/tcp filtered ppp
+3306/tcp filtered mysql
+5060/tcp filtered sip
+Device type: general purpose|storage-misc|firewall
+Running (JUST GUESSING): Linux 4.X|2.6.X|3.X (87%), Synology DiskStation Manager 5.X (85%), WatchGuard Fireware 11.X (85%)
+OS CPE: cpe:/o:linux:linux_kernel:4.0 cpe:/o:linux:linux_kernel:2.6.39 cpe:/o:linux:linux_kernel:3.10 cpe:/o:linux:linux_kernel cpe:/a:synology:diskstation_manager:5.1 cpe:/o:watchguard:fireware:11.8
+Aggressive OS guesses: Linux 4.0 (87%), Linux 2.6.39 (86%), Linux 3.10 (86%), Linux 3.10 - 3.16 (86%), Linux 2.6.32 (85%), Linux 2.6.32 or 3.10 (85%), Linux 3.10 - 3.12 (85%), Linux 3.4 (85%), Linux 3.5 (85%), Linux 4.2 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Uptime guess: 12.289 days (since Wed Oct  2 07:53:29 2024)
+Network Distance: 17 hops
+TCP Sequence Prediction: Difficulty=260 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Read data files from: /usr/bin/../share/nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Oct 14 14:49:00 2024 -- 1 IP address (1 host up) scanned in 57.10 seconds

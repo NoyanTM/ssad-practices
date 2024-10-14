@@ -1,0 +1,23 @@
+POST /ghost/api/admin/session HTTP/2
+Host: bluescreen.kz
+Cookie: _ga=GA1.1.1282581060.1728890839; _ym_uid=1728890839208105608; _ym_d=1728890839; _ym_isad=2; _ga_0GCE4SK8E5=GS1.1.1728890839.1.0.1728890851.0.0.0
+Content-Length: 49
+X-Ghost-Version: 5.71
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: ru-RU,ru;q=0.9
+Sec-Ch-Ua: "Chromium";v="129", "Not=A?Brand";v="8"
+App-Pragma: no-cache
+Sec-Ch-Ua-Mobile: ?0
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6668.71 Safari/537.36
+Accept: text/plain, */*; q=0.01
+Content-Type: application/json;charset=UTF-8
+Origin: https://bluescreen.kz
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://bluescreen.kz/ghost/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{"username":"admin@admin.com","password":"admin"}

@@ -1,0 +1,37 @@
+Whois Server for the KZ top level domain name.
+This server is maintained by KazNIC Organization, a ccTLD manager for Kazakhstan Republic.
+
+Domain Name............: bluescreen.kz
+
+Organization Using Domain Name
+Name...................: Melnikova Anna, 861230400018
+Organization Name......: Private Person
+Street Address.........: Karmysova 84/2,korpus 3,kvartira 2
+City...................: g.Almaty
+State..................: g.Almaty
+Postal Code............: 050010
+Country................: KZ
+
+Administrative Contact/Agent
+NIC Handle.............: PS-KZ-1717161993
+Name...................: Melnikova Anna, 861230400018
+Phone Number...........: +77081801777 
+Fax Number.............:  
+Email Address..........: anya.mxat@gmail.com
+
+Nameserver in listed order
+
+Primary server.........: fish.ns.cloudflare.com
+Primary ip address.....: 162.159.38.252
+
+Secondary server.......: santino.ns.cloudflare.com
+Secondary ip address...: 162.159.44.1
+
+
+Domain created: 2018-07-25 06:52:13 (GMT+0:00)
+Last modified : 2024-05-31 13:26:33 (GMT+0:00)
+Domain status : clientTransferProhibited - 
+                clientRenewProhibited - 
+                
+Registar created: ICPS
+Current Registar: ICPS
